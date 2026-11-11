@@ -1,6 +1,6 @@
-package PaymentGateway.PaymentService;
+package paymentGateway.PaymentService;
 
-import PaymentGateway.PaymentStratgy.*;
+import paymentGateway.PaymentStratgy.*;
 
 
 public class PayService {

@@ -1,4 +1,4 @@
-package PaymentGateway.PaymentStratgy;
+package paymentGateway.PaymentStratgy;
 
 
 /**
